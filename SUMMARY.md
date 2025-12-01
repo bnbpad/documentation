@@ -3,6 +3,10 @@
 ## Overview
 
 * [Welcome](README.md)
+* [Welcome](overview/welcome-1/README.md)
+  * [Vision and Mission](overview/welcome-1/vision-and-mission.md)
+* [Platform Architecture](overview/platform-architecture.md)
+* [Agent Lifecycle](overview/agent-lifecycle.md)
 * [BPAD Tokenomics](overview/bpad-tokenomics.md)
 * [Staking](overview/staking.md)
 * [Agentic Tokens](overview/agentic-tokens.md)

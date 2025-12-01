@@ -1,5 +1,6 @@
 ---
 description: Welcome to the BSCPad.ai Launchpad Docs
+hidden: true
 ---
 
 # Welcome
