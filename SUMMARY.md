@@ -3,11 +3,10 @@
 ## Overview
 
 * [Welcome](README.md)
-* [Welcome](overview/welcome-1/README.md)
-  * [Vision and Mission](overview/welcome-1/vision-and-mission.md)
+  * [Vision and Mission](overview/welcome/vision-and-mission.md)
 * [Platform Architecture](overview/platform-architecture.md)
 * [Agent Lifecycle](overview/agent-lifecycle.md)
-* [BPAD Tokenomics](overview/bpad-tokenomics.md)
+* [PHUNK Tokenomics](overview/phunk-tokenomics.md)
 * [Staking](overview/staking.md)
 * [Agentic Tokens](overview/agentic-tokens.md)
 * [x402 Support](overview/x402-support.md)
@@ -21,7 +20,7 @@
 ## Links
 
 * [Telegram](https://t.me/bnbpadai)
-* [X/Twitter](https://x.com/bnbpadai)
+* [X/Twitter](https://x.com/phunksdotai)
 
 ## Legal
 

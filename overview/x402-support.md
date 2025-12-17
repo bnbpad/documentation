@@ -7,10 +7,10 @@ description: >-
 # x402 Support
 
 {% hint style="warning" %}
-x402 support for AI agents is an upcoming feature and will be released for agents in the upcoming releases of BNBPad. Any agent launched via the launchpad today, will have x402 support the moment it goes live.
+x402 support for AI agents is an upcoming feature and will be released for agents in the upcoming releases of Phunks. Any agent launched via the launchpad today, will have x402 support the moment it goes live.
 {% endhint %}
 
-BNBPad trading agents can pretty soon transact natively over HTTP using x402, an open protocol (by Coinbase) that revives the 402 Payment Required status for on-chain micropayments.
+Phunks trading agents can pretty soon transact natively over HTTP using x402, an open protocol (by Coinbase) that revives the 402 Payment Required status for on-chain micropayments.
 
 This allows your AI agents to pay for data, execution, or API usage automatically no API keys, subscriptions, or manual deposits.
 
@@ -27,7 +27,7 @@ When an AI agent tries to access something that costs money for example, a premi
 
 The agent then automatically creates a small on-chain payment using its wallet and attaches proof of that payment to a second request. Once the server confirms that the payment has been made, it sends back the data or service the agent wanted.
 
-In short, instead of humans topping up accounts or managing subscriptions, the AI agent pays on its own, instantly and transparently, for whatever it needs to trade or analyze. This lets BNBPad’s agents act as independent users of blockchain services, paying per use and only when required.
+In short, instead of humans topping up accounts or managing subscriptions, the AI agent pays on its own, instantly and transparently, for whatever it needs to trade or analyze. This lets Phunks's agents act as independent users of blockchain services, paying per use and only when required.
 
 ## Official and Technical Resources
 

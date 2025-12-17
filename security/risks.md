@@ -4,11 +4,11 @@ description: This page goes into detail about the various risks about the protoc
 
 # Risks
 
-While BNBPAD.ai is built on secure, verifiable infrastructure including EigenLayer restaking, Aster DEX integration, and audited smart contracts it still operates at the frontier of AI & DeFi innovation.
+While Phunks is built on secure, verifiable infrastructure including EigenLayer restaking, Aster DEX integration, and audited smart contracts it still operates at the frontier of AI & DeFi innovation.
 
 With that comes a unique set of risks spanning technical, economic, and behavioral domains.
 
-This document outlines the main categories of risks that participants, creators, and traders should understand before engaging with AI Agentic Tokens or the BPAD ecosystem.
+This document outlines the main categories of risks that participants, creators, and traders should understand before engaging with AI Agentic Tokens or the PHUNK ecosystem.
 
 ## 1. AI Execution Risks
 
@@ -34,7 +34,7 @@ In early deployments, AI agents use Externally Owned Accounts (EOAs) and private
 * Manipulate trading behavior
 * Execute unauthorized transactions
 
-This risk is largely prevalent in the phase 1 stage of BNBPad, however in phase 2, this risk gets totally mitigated when the EigenLayer infrastructre comes into the picture.
+This risk is largely prevalent in the phase 1 stage of Phunks, however in phase 2, this risk gets totally mitigated when the EigenLayer infrastructre comes into the picture.
 
 ## 2. Smart Contract & Protocol Risks
 
@@ -42,7 +42,7 @@ Risks related to code or smart contracts.
 
 ### 2.1 Contract Bugs or Exploits
 
-All smart contracts — including those for the launchpad, staking, or trading integrations — carry inherent risks of bugs or vulnerabilities.
+All smart contracts including those for the launchpad, staking, or trading integrations: carry inherent risks of bugs or vulnerabilities.
 
 A critical bug could result in:
 
@@ -54,13 +54,13 @@ Participants should recognize that no system is fully immune from unknown exploi
 
 ### 2.2 Integration Risks
 
-BNBPAD.ai integrates several third-party systems:
+Phunks integrates several third-party systems:
 
 * Aster Perp DEX for trading execution
 * EigenLayer for validation and restaking security
-* Off-chain LLM providers for inference
+* Offchain LLM providers for inference
 
-Any dependency failure, downtime, or upgrade conflict within these systems could affect BNBPAD.ai’s operations or lead to temporary loss of functionality.
+Any dependency failure, downtime, or upgrade conflict within these systems could affect Phunks’s operations or lead to temporary loss of functionality.
 
 ## 3. Economic and Market Risks
 
@@ -78,24 +78,24 @@ While 80% of trading fees are directed back to the treasury, these do not guaran
 
 ### 3.2 Insider or Market Manipulation
 
-BNBPAD.ai launchpad tokens are open to the public, but like any decentralized market, there is potential for:
+Phunks launchpad tokens are open to the public, but like any decentralized market, there is potential for:
 
 * Insider accumulation and pump-and-dump activity before listings
 * Front-running or MEV exploits on liquidity pairs
 * Coordinated trading manipulation around AI agent launch events
 
-The platform encourages fair launches and community oversight via stBPAD governance, but participants should remain aware that market behavior cannot be fully controlled.
+The platform encourages fair launches and community oversight via stPHUNK governance, but participants should remain aware that market behavior cannot be fully controlled.
 
 ## Conclusion
 
-BNBPAD.ai is pioneering a new paradigm of intelligent, verifiable, and self-sustaining AI economies.
+Phunks is pioneering a new paradigm of intelligent, verifiable, and self-sustaining AI economies.
 
 While this innovation opens extraordinary opportunities, participants should understand that risk cannot be eliminated only managed.
 
-The protocol’s design integrating EigenLayer restaking, BPAD-based liquidity, and ve-style staking is built to minimize systemic risks, but users should always:
+The protocol’s design integrating EigenLayer restaking, PHUNK-based liquidity, and ve-style staking is built to minimize systemic risks, but users should always:
 
 * Conduct their own research
 * Diversify participation
 * Engage responsibly with AI-driven financial agents
 
-> _Innovation is powerful — but it demands understanding. Use BNBPAD.ai with knowledge, not blind trust._
+> _Innovation is powerful - but it demands understanding. Use_ Phunks _with knowledge, not blind trust._

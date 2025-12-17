@@ -1,6 +1,6 @@
 # Platform Architecture
 
-BNBPad is built as a layered system that connects onchain smart contracts with offchain AI systems. The design ensures that token creation, treasury management, staking and AI driven trading each function within clear and predictable boundaries.
+Phunks is built as a layered system that connects onchain smart contracts with offchain AI systems. The design ensures that token creation, treasury management, staking and AI driven trading each function within clear and predictable boundaries.
 
 
 
@@ -10,19 +10,17 @@ At a high level, the architecture brings together:
 * A suite of smart contracts on BNB Smart Chain
 * An AI orchestration layer that handles all model logic
 * Perpetual trading integration through Aster
-* A staking and reward engine for BPAD
+* A staking and reward engine for PHUNK
 * A security stack supported by EigenLayer and verifiable AI tools
 
 ***
 
 ### Architecture Overview
 
-
-
-BNBPad separates responsibilities across different layers so that agent creation, trading execution and treasury control do not compete for authority. This separation helps maintain clarity, reduces risk and makes the system more modular for future expansion.
+Phunks separates responsibilities across different layers so that agent creation, trading execution and treasury control do not compete for authority. This separation helps maintain clarity, reduces risk and makes the system more modular for future expansion.
 
 {% hint style="info" %}
-The onchain components of BNBPad always retain custody of tokens and treasuries. The off-chain components propose actions, but final authority rests with the smart contracts.
+The onchain components of Phunks always retain custody of tokens and treasuries. The off-chain components propose actions, but final authority rests with the smart contracts.
 {% endhint %}
 
 ***
@@ -33,36 +31,36 @@ The onchain components of BNBPad always retain custody of tokens and treasuries.
 
 The launchpad contracts serve as the foundation of agent creation. It handles every step required to bring a new AI agent token to life.
 
-When an agent is launched, the contracts deploy a fresh token contract, allocate ten percent of its total supply to a dedicated onchain treasury and automatically pair the token with BPAD to establish its initial liquidity pool.
+When an agent is launched, the contracts deploy a fresh token contract, allocate ten percent of its total supply to a dedicated onchain treasury and automatically pair the token with PHUNK to establish its initial liquidity pool.
 
 They also register all necessary metadata so the agent can be discovered and interacted with across the ecosystem. This process ensures that every agent begins with a consistent structure and a strong economic base.
 
 ***
 
-### BPAD Token Contract
+### PHUNK Token Contract
 
-BPAD is a BEP-20 token with a fixed supply of 1,000,000,000. It acts as:
+PHUNK is a BEP-20 token with a fixed supply of 1,000,000,000. It acts as:
 
 * The base liquidity pair for every agent token
-* The token users stake to receive stBPAD
+* The token users stake to receive stPHUNK
 * The asset used in buyback and burn cycles
 * The monetary layer that unifies the entire agent ecosystem
 
-> “Every new agent launched strengthens BPAD liquidity and increases its economic footprint.”
+> “Every new agent launched strengthens PHUNK liquidity and increases its economic footprint.”
 
 ***
 
 ### Staking and Reward Contracts
 
-BNBPad includes a dedicated staking system that converts BPAD into stBPAD based on time locked positions. The contracts handle:
+Phunks includes a dedicated staking system that converts PHUNK into stPHUNK based on time locked positions. The contracts handle:
 
-* Accepting BPAD deposits
+* Accepting PHUNK deposits
 * Applying lock based multipliers across 1, 3, 6 and 12 month terms
 * Tracking user staking positions
 * Distributing each new agent’s three percent airdrop allocation
-* Preparing stBPAD to serve as governance weight in the future
+* Preparing stPHUNK to serve as governance weight in the future
 
-This design rewards long term participants and builds alignment between BPAD holders and the growth of the agent ecosystem.
+This design rewards long term participants and builds alignment between PHUNK holders and the growth of the agent ecosystem.
 
 ***
 
@@ -71,7 +69,7 @@ This design rewards long term participants and builds alignment between BPAD hol
 Every agent has its own onchain treasury. The architecture guarantees the following properties:
 
 * Ten percent of token supply is reserved for the treasury at creation
-* Eighty percent of the agent’s trading fees in BPAD and its own token flow back into the treasury
+* Eighty percent of the agent’s trading fees in PHUNK and its own token flow back into the treasury
 * Treasury funds can only be used according to the agent’s predefined rules
 * Strategies may include spot yield operations or perp trading via Aster
 
@@ -116,7 +114,7 @@ This unlocks profit strategies that do not rely on selling the underlying agent 
 
 ## Security and Verification Layer
 
-BNBPad applies a multi stage security model that strengthens over time.
+Phunks applies a multi stage security model that strengthens over time.
 
 #### Stage one
 
