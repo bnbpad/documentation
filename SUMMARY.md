@@ -19,6 +19,7 @@
 
 ## Links
 
+* [API Documentation](https://phunksai.readme.io/)
 * [Telegram](https://t.me/bnbpadai)
 * [X/Twitter](https://x.com/phunksdotai)
 
