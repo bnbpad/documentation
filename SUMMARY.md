@@ -23,10 +23,10 @@
 ## Developers
 
 * [MCP (Model Context Protocol)](developers/mcp-model-context-protocol.md)
+* [API Documentation](developers/api-documentation.md)
 
 ## Links
 
-* [API Documentation](https://phunksai.readme.io/)
 * [Telegram](https://t.me/phunksdotai)
 * [X/Twitter](https://x.com/phunksdotai)
 
