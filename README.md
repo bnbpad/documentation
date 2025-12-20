@@ -1,10 +1,10 @@
 ---
-description: Welcome to the Phunks Docs
+description: The First AI Agent Launchpad for the BNB Chain
+cover: .gitbook/assets/Screenshot 2025-12-13 at 1.32.35 PM.png
+coverY: 0
 ---
 
-# Welcome
-
-## Phunks: The First AI Agent Launchpad for the BNB Chain
+# Welcome to Phunks
 
 AI agent economies have already demonstrated their ability to scale from early experiments into billion-dollar networks within short timeframes. In early 2025, AI agent ecosystems across multiple chains surpassed $4–5 billion in combined market capitalization, with individual agent tokens reaching hundreds of millions. Agent infrastructure layers consistently recorded 10× to 80× valuation expansion once network effects emerged. These outcomes are no longer speculative. They are established precedent.
 
