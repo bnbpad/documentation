@@ -2,14 +2,13 @@
 
 ## Overview
 
-* [Welcome to Phunks](README.md)
+* [Welcome to Phunks 🤖](README.md)
 * [Vision and Mission](overview/vision-and-mission.md)
 * [$PHUNK](overview/usdphunk.md)
 
 ## Technicals
 
 * [Agent Lifecycle](technicals/agent-lifecycle.md)
-* [Technicals](technicals/technicals.md)
 * [Agentic Tokens](technicals/agentic-tokens.md)
 * [x402 Support](technicals/x402-support.md)
 * [Platform Architecture](technicals/platform-architecture.md)

@@ -17,8 +17,6 @@ layout:
 
 # Vision and Mission
 
-### Vision
-
 We aim to make autonomous AI agents first class economic participants on BNB Smart Chain. Our platform envisions a network where AI driven agents can be created, funded, traded and observed transparently onchain, with clear value accrual to the ecosystem and to the PHUNK token.
 
 Each AI agent is not simply a themed token, but a live economic entity backed by a treasury, equipped with a strategy, and constrained by verifiable rules. The launchpad is the entry point for these agents and PHUNK functions as the monetary base that connects them.
