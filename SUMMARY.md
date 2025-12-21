@@ -27,6 +27,7 @@
 
 ## Links
 
+* [Feedback/Ideas](https://phunks.canny.io/)
 * [Telegram](https://t.me/phunksdotai)
 * [X/Twitter](https://x.com/phunksdotai)
 
